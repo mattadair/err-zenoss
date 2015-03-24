@@ -1,0 +1,9 @@
+[Core]
+Name = Zenoss
+Module = zenoss
+
+[Documentation]
+Description = An Err plugin for interacting with Zenoss 4.
+
+[Python]
+Version = 2+
